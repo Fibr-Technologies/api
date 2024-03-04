@@ -1,2 +1,2 @@
-# SocialAPI
-The official API for https://chat.fibr.social.
+# API
+The official API for all Fibr services. Because for TECHNICAL reasons, I cannot seem to make it for just one service, have fun.
